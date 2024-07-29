@@ -1,0 +1,108 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+$.@
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+
+# Rider projects
+.idea/
+*.sln.iml
+
+# VS Code directory
+.vscode/
+
+# Mac OS generated files
+.DS_Store
+
+# Rider Unity plugin
+.idea/Unity*
+
+# Uncomment if you have tasks defined in .vscode/tasks.json
+# More info at https://code.visualstudio.com/docs/editor/tasks
+
+# Ignore Python virtual environments
+venv/
+
+# Ignore all .NET Core related files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework Migrations
+Migrations/
+
+# Local History
+.localhistory/
+
+# NPM Packages
+node_modules/
+
+# Optional: Uncomment if you have a React or Angular project
+# package-lock.json
+# yarn.lock
+
+# Ignore .NET Core global tools
+.dotnet/tools/
+
+# Optional: Ignore .NET global tools cache
+.dotnet/
+
+# Optional: Ignore Visual Studio IntelliCode models
+.vs/slnx.sqlite
+.vs/slnx.sqlite-journal
+
+# .NET 5+ dependency manager directories
+modules
+pmdoc/
+
+# Optional: Ignore runtime output files
+.rider/
+
+# Optional: Ignore Visual Studio working directories
+.vscode/
+
+# Temporary files
+*.tmp
